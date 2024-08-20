@@ -1,0 +1,15 @@
+1、依次点击语言栏中的的“Python、Java、JavaScript、Go、C、C++、TypeScript、C#、PHP”
+
+1、点击“创建存储库”按钮；
+2、进入创建详情页；
+3、点击“import a repository”按钮；
+4、勾选“public”选项；
+5、点击“创建存储库”按钮。
+
+
+
+
+
+、
+1、成功加载存储库页面；
+2、输出结果显示正常。
